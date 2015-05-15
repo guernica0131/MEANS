@@ -7,3 +7,4 @@ web:
 
 mongo:
   image: mongo:3
+  command: --smallfiles
