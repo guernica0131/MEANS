@@ -1,4 +1,4 @@
-CONSOLE.LOG(WHAT THE!)
+console.log("WHAT THE !!!!!!!!!!!!!!!!!!!!!!!!!1");
 web:
   build: .
   ports:
