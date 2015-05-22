@@ -1,3 +1,4 @@
+UPDATE
 web:
   build: .
   ports:
