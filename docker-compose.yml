@@ -1,4 +1,3 @@
-IS THIS UPDATING
 web:
   build: .
   ports:
