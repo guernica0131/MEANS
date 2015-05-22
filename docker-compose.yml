@@ -1,14 +1,11 @@
+IS THIS UPDATING
 web:
   build: .
   ports:
-    - 3000:80
+    - 8080:80
   links:
     - mongodb:db0
-    - postgresql:db1
 
 mongo:
   image: mongo:3
   command: --smallfiles
-
-postgresql:
-  image: postgres:9.4
