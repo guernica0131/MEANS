@@ -1,3 +1,4 @@
+CONSOLE.LOG(WHAT THE!)
 web:
   build: .
   ports:
